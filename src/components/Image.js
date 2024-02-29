@@ -8,7 +8,7 @@ export const Image =()=>{
 
         <div>
 
-        <img src={product.image} alt="Not found" />
+        <img src={product.image} alt="Not found" style={{width:"286px"}} />
 
         </div>
     )
